@@ -31,4 +31,4 @@ Here is the website for all the index numbers on the keys: https://docs.fivem.ne
 
 # Script Issues:
 If you run into any issues, please open an issue by going here -> https://github.com/procommando/pc_escort/issues and explain in detail as much as you can. 
-### I can't promise any assitance, but I will do my best. This is my first custom script, so please bare with me.
+### I can't promise any assitance, but I will do my best.
