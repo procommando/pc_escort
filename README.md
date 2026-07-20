@@ -17,12 +17,14 @@ Path: Your Server -> txData -> QBCore_### -> open 'server.cfg' file
 
 ## How to use:
 Anyone in your server can press K by default, to start escorting someone. Press K again to stop escorting. 
+
 It's basically holding hands with someone. Useful for PD to escort when someone is hard cuffed, useful for EMS especially during water rescues, etc.
 
 
 
 ## Shared - Config file:
 This is where you can change the default keybind to another index number. 
+
 Here is the website for all the index numbers on the keys: https://docs.fivem.net/docs/game-references/controls/ 
 
 
